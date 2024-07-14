@@ -122,7 +122,7 @@ header {
     min-height: 500px;
     display: flex;
     align-items: center;
-    background-image: url(imges/bg.png);
+    background-image: url(bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -181,7 +181,7 @@ header {
 }
 
 .swiper-button-next {
-    background: url(imges/right-arrow.png);
+    background: url(right-arrow.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
@@ -193,7 +193,7 @@ header {
 }
 
 .swiper-button-prev {
-    background: url(imges/Arrow-left.png);
+    background: url(Arrow-left.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
